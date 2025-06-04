@@ -2,7 +2,7 @@
 
 CREATE DATABASE library_p2;
 
--- Creating the branvh Table
+-- Creating the branch Table
 
 -- DROP TABLE IF EXISTS branch
 CREATE TABLE branch
